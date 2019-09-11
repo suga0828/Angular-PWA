@@ -1,9 +1,13 @@
 {
+  "dir": "ltr",
+  "lang": "en",
   "name": "Angular-PWA",
-  "short_name": "Angular-PWA",
+  "short_name": "Example of Angular PWA",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
-  "display": "standalone",
+  "description": "An example app",
+  "display": "fullscreen",
+  "orientation": "any",
   "scope": "/",
   "start_url": "/",
   "icons": [
